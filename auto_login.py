@@ -53,7 +53,7 @@ def auto_login(account, password, interval=60, service='宜宾移动', base_url=
         time.sleep(interval)
 
 
-#
+# 主函数
 if __name__ == '__main__':
     account = ''  # 账号
     password = ''  # 密码
